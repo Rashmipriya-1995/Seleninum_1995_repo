@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-25T01:11:13 IST" name="Default suite" finished-at="2025-06-25T01:11:25 IST" duration-ms="12182">
+    <groups>
+    </groups>
+    <test started-at="2025-06-25T01:11:13 IST" name="Default test" finished-at="2025-06-25T01:11:25 IST" duration-ms="12182">
+      <class name="extentreports.ExtentReportAssignment">
+        <test-method signature="addScreeshotWithTimeStamp()[pri:0, instance:extentreports.ExtentReportAssignment@217ed35e]" started-at="2025-06-25T01:11:13 IST" name="addScreeshotWithTimeStamp" finished-at="2025-06-25T01:11:25 IST" duration-ms="12134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addScreeshotWithTimeStamp -->
+      </class> <!-- extentreports.ExtentReportAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
