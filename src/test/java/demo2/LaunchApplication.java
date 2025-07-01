@@ -9,6 +9,7 @@ public class LaunchApplication {
 	public void openApp() {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demowebshop.tricentis.com/");
+		driver.close();
 	}
 
 }
